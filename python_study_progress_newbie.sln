@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "annotation", "annotation\annotation.pyproj", "{90C19BBC-49E5-43FD-8FB9-9491B85A3672}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1_annotation", "annotation\1_annotation.pyproj", "{90C19BBC-49E5-43FD-8FB9-9491B85A3672}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hallo_world", "hallo_world\hallo_world.pyproj", "{AFB4A3EA-A103-48E6-9891-85511773E085}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2_hallo_world", "hallo_world\2_hallo_world.pyproj", "{AFB4A3EA-A103-48E6-9891-85511773E085}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3_define", "3_define\3_define.pyproj", "{A443476F-3F97-408F-A37C-748AC4FAAEB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,8 @@ Global
 		{90C19BBC-49E5-43FD-8FB9-9491B85A3672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFB4A3EA-A103-48E6-9891-85511773E085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AFB4A3EA-A103-48E6-9891-85511773E085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A443476F-3F97-408F-A37C-748AC4FAAEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A443476F-3F97-408F-A37C-748AC4FAAEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
