@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "annotation", "annotation\annotation.pyproj", "{90C19BBC-49E5-43FD-8FB9-9491B85A3672}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hallo_world", "hallo_world\hallo_world.pyproj", "{AFB4A3EA-A103-48E6-9891-85511773E085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C19BBC-49E5-43FD-8FB9-9491B85A3672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C19BBC-49E5-43FD-8FB9-9491B85A3672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB4A3EA-A103-48E6-9891-85511773E085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB4A3EA-A103-48E6-9891-85511773E085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13E0AD5F-1256-4977-BF47-C660EA5C94C3}
+	EndGlobalSection
+EndGlobal
