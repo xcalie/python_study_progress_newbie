@@ -5,7 +5,7 @@
     <ProjectGuid>90c19bbc-49e5-43fd-8fb9-9491b85a3672</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>annotation.py</StartupFile>
+    <StartupFile>1_annotation.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="annotation.py" />
+    <Compile Include="1_annotation.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
