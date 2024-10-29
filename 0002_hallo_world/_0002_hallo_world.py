@@ -1,4 +1,4 @@
-﻿# 一切的开始
+# 一切的开始
 
 print("hallo world")
 

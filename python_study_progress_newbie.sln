@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "1_annotation", "1_annotation\1_annotation.pyproj", "{90C19BBC-49E5-43FD-8FB9-9491B85A3672}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "help_0001_Escape_sequence", "help_0001_Escape_sequence\help_0001_Escape_sequence.pyproj", "{5D772B89-9FE5-41AB-AA6A-5DF00AA832C9}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2_hallo_world", "2_hallo_world\2_hallo_world.pyproj", "{AFB4A3EA-A103-48E6-9891-85511773E085}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "help_0002_def_function", "help_0002_def_function\help_0002_def_function.pyproj", "{6F5C8918-5963-40AF-9D7B-CCA3EF9F4C87}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3_define", "3_define\3_define.pyproj", "{A443476F-3F97-408F-A37C-748AC4FAAEB1}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "0001_annotation", "0001_annotation\0001_annotation.pyproj", "{D4B7A04F-6650-4DB4-B8CC-0EE4A4BF1620}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "0002_hallo_world", "0002_hallo_world\0002_hallo_world.pyproj", "{DCA375F3-4E66-4AFA-8091-97DCF164064A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "0003_define", "0003_define\0003_define.pyproj", "{204328AB-AED3-4C5F-B882-8219D3033D52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,12 +19,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{90C19BBC-49E5-43FD-8FB9-9491B85A3672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90C19BBC-49E5-43FD-8FB9-9491B85A3672}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFB4A3EA-A103-48E6-9891-85511773E085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFB4A3EA-A103-48E6-9891-85511773E085}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A443476F-3F97-408F-A37C-748AC4FAAEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A443476F-3F97-408F-A37C-748AC4FAAEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D772B89-9FE5-41AB-AA6A-5DF00AA832C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D772B89-9FE5-41AB-AA6A-5DF00AA832C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5C8918-5963-40AF-9D7B-CCA3EF9F4C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5C8918-5963-40AF-9D7B-CCA3EF9F4C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B7A04F-6650-4DB4-B8CC-0EE4A4BF1620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B7A04F-6650-4DB4-B8CC-0EE4A4BF1620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA375F3-4E66-4AFA-8091-97DCF164064A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA375F3-4E66-4AFA-8091-97DCF164064A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204328AB-AED3-4C5F-B882-8219D3033D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204328AB-AED3-4C5F-B882-8219D3033D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

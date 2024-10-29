@@ -2,16 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>90c19bbc-49e5-43fd-8fb9-9491b85a3672</ProjectGuid>
-    <ProjectHome>
-    </ProjectHome>
-    <StartupFile>1_annotation.py</StartupFile>
+    <ProjectGuid>204328ab-aed3-4c5f-b882-8219d3033d52</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>_0003_define.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>1_annotation</Name>
-    <RootNamespace>annotation</RootNamespace>
+    <Name>0003_define</Name>
+    <RootNamespace>0003_define</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="1_annotation.py" />
+    <Compile Include="_0003_define.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
